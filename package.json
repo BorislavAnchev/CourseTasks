@@ -1,0 +1,23 @@
+{
+  "name": "task42",
+  "version": "1.0.0",
+  "description": "Counter function task.",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jasmine-core": "^3.4.0",
+    "karma": "^4.2.0",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^3.0.0",
+    "karma-coverage": "^1.1.2",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-jasmine": "^2.0.1",
+    "karma-mocha": "^1.3.0",
+    "mocha": "^6.2.0"
+  }
+}
